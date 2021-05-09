@@ -5,14 +5,14 @@
  * Plugin Name:       BIT Admin Date Column fix for WooCommerce
  * Plugin URI:        http://www.blackicetrading.com/plugin-bit-wc-date-column-fix
  * Description:       Adds the full time and date to the date column for those that find the '1 hour ago' stupid.
- * Version:           1.0.1
+ * Version:           1.1.0
  * Author:            Dan
  * Author URI:        http://www.blackicetrading.com
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       bit_wc_admin-date-column
  * WC requires at least: 4.0.0
- * WC tested up to:   4.5.2
+ * WC tested up to:   5.2.2
  */
 
 // If this file is called directly, abort.

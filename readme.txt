@@ -1,13 +1,13 @@
 
-=== BIT Admin Date Column fix for WooCommerce===
+=== BlackIce Admin Date Column fix for WooCommerce===
 Contributors: blackicelmtd
 Donate link: http://www.blackicetrading.com
 Tags: woocommerce, orders, admin, date, column
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Tested up to: 5.5.1
+Tested up to: 5.7.1
 WC requires at least: 4.0.0
-WC tested up to: 4.5.2
+WC tested up to: 5.2.2
 
 Adds the full time and date to the date column for those that find the '1 hour ago' stupid.
 
@@ -37,6 +37,10 @@ Because seeing 1/5/18 hours ago is relative to when the page was last refreshed.
 == Screenshots ==
 
 == Changelog ==
+
+= 1.1.0 =
+* Update: Rename plugin from bit to blackice
+* Update: Tested upto version info.
 
 = 1.0.1 =
 * Update version info.
